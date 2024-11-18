@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding-top: 40px;
+    padding-bottom: 84px;
+    color: #000000;
+}
+
+.top__content {
+    padding-top: 82px;
+    padding-bottom: 163px;
+}
+
+.title__h1 {
+    color: #000000;
+    font-size: 62px;
+}
+
+.text_top_info {
+    color: #888888;
+}
+
+.btn_text {
+    color: #AAAAAA;
+    font-size: 15px;
+}
+
+.footer__logo {
+    padding-bottom: 96px;
+    padding-top: 97px;
+}
