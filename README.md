@@ -1,7 +1,9 @@
 # Основы веб-верстки HTML/CSS (семинары)
 
 ## Задание
-#### 1. Открыть макет сайта https://www.figma.com/file/mnLY69cYE5cqWM5w6n5hXx/Seo- %26-Digital-Marketing-Landing-Page?node-id=23%3A2
+#### 1. Открыть макет сайта 
+* https://www.figma.com/file/mnLY69cYE5cqWM5w6n5hXx/Seo-%26-Digital-Marketing-Landing-Page?node-id=23%3A2
+
 #### 2. необходимо представить разбиение часть на блоки (Для тех учеников которые умеют работать с фигма разбить представленную на скриншоте часть на блоки, как в семинаре) [макет](https://github.com/KirillCh22/HTML_CSS_Les3/blob/main/maket.png)
 ![maket](https://github.com/user-attachments/assets/05cad79c-aa8e-4a17-a5f3-65b438a13ed0)
 
